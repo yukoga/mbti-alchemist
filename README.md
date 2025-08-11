@@ -43,7 +43,7 @@ You can see the application is running at http://localhost:9002.
 
 1.  **リポジトリのクローン:**
 ```bash
-git clone [GitHub リポジトリのURL]
+git clone https://github.com/yukoga/mbti-alchemist
 ```
 2.  **プロジェクトディレクトリへ移動:**
 ```bash
