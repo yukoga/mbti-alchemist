@@ -47,7 +47,7 @@ git clone [GitHub リポジトリのURL]
 ```
 2.  **プロジェクトディレクトリへ移動:**
 ```bash
-cd nextn
+cd mbti-alchemist
 ```
 3.  **依存関係のインストール:**
 ```bash
